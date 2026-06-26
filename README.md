@@ -1,2 +1,20 @@
 # End-to-End-Stock-Market-Price-Analysis-Project
 The objective of this project is to analyze historical stock market data to identify price trends, trading patterns, volatility, and stock performance indicators. The analysis aims to provide insights that can assist investors and financial analysts in making informed investment decisions.
+
+## BUSINESS PROBLEM
+Stock prices fluctuate daily due to market conditions, economic events, and investor sentiment. Understanding historical stock behavior is essential for evaluating investment opportunities and managing financial risks.
+#### This project seeks to answer the following questions:
+  •	Which stocks have the highest average closing prices?
+  •	Which stocks exhibit the highest volatility?
+  •	Are there noticeable trends in trading volume over time?
+  •	What is the relationship between opening and closing prices?
+  •	Which periods experienced significant price movements?
+
+## Dataset Information
+#### Dataset Source
+   Codveda is they one how provide this data set Stock 
+#### Dataset Size
+Number of Rows : 497463
+Number of Columns : 7
+Period Covered : January 2014 – December 2017
+
