@@ -14,7 +14,41 @@ Stock prices fluctuate daily due to market conditions, economic events, and inve
 #### Dataset Source
    Codveda is they one how provide this data set Stock 
 #### Dataset Size
-Number of Rows : 497463
-Number of Columns : 7
-Period Covered : January 2014 – December 2017
+- Number of Rows : 497463
+- Number of Columns : 7
+- Period Covered : January 2014 – December 2017
+
+### 🛠️ Tools & Technologies
+
+- Database	SQL Server [Download here](https://www.microsoft.com/en-us/sql-server)
+
+- Power BI [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+- Data Modeling	Star Schema
+
+- Analytics	SQL Queries
+
+- Version Control	Git & GitHub
+
+
+## 🔹  Project Background 
+- This analysis provides valuable information for portfolio managers, traders, and financial analysts by identifying profitable investment opportunities, monitoring market trends, and understanding stock price behavior.
+
+Purpose: The database mimics a real company’s operations, including:
+
+Monitoring market trends, and understanding stock price behavior.
+
+📌 Project Flow
+
+Data Profiling, Remediation
+
+Data cleaning using SQL
+
+Exploratory data analysis (EDA)
+
+KPI creation
+
+Dashboard development and storytelling
+
+Business insights & recommendations
 
