@@ -4,11 +4,11 @@ The objective of this project is to analyze historical stock market data to iden
 ## BUSINESS PROBLEM
 Stock prices fluctuate daily due to market conditions, economic events, and investor sentiment. Understanding historical stock behavior is essential for evaluating investment opportunities and managing financial risks.
 #### This project seeks to answer the following questions:
-  •	Which stocks have the highest average closing prices?
-  •	Which stocks exhibit the highest volatility?
-  •	Are there noticeable trends in trading volume over time?
-  •	What is the relationship between opening and closing prices?
-  •	Which periods experienced significant price movements?
+  - Which stocks have the highest average closing prices?
+  -	Which stocks exhibit the highest volatility?
+  -	Are there noticeable trends in trading volume over time?
+  -	What is the relationship between opening and closing prices?
+  -	Which periods experienced significant price movements?
 
 ## Dataset Information
 #### Dataset Source
