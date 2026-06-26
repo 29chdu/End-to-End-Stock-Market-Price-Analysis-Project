@@ -34,11 +34,11 @@ Stock prices fluctuate daily due to market conditions, economic events, and inve
 ## 🔹  Project Background 
 This analysis provides valuable information for portfolio managers, traders, and financial analysts by identifying profitable investment opportunities, monitoring market trends, and understanding stock price behavior.
 
-Purpose: The database mimics a real company’s operations, including:
+###### Purpose: The database mimics a real company’s operations, including:
 
 Monitoring market trends, and understanding stock price behavior.
 
-📌 Project Flow
+#### 📌 Project Flow
 
 Data Profiling, Remediation
 
