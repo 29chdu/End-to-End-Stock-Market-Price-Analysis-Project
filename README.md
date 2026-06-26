@@ -12,7 +12,7 @@ Stock prices fluctuate daily due to market conditions, economic events, and inve
 
 ## Dataset Information
 #### Dataset Source
-   Codveda is they one how provide this data set Stock 
+  -  Codveda is they one how provide this data set Stock 
 #### Dataset Size
 - Number of Rows : 497463
 - Number of Columns : 7
@@ -32,7 +32,7 @@ Stock prices fluctuate daily due to market conditions, economic events, and inve
 
 
 ## 🔹  Project Background 
-- This analysis provides valuable information for portfolio managers, traders, and financial analysts by identifying profitable investment opportunities, monitoring market trends, and understanding stock price behavior.
+This analysis provides valuable information for portfolio managers, traders, and financial analysts by identifying profitable investment opportunities, monitoring market trends, and understanding stock price behavior.
 
 Purpose: The database mimics a real company’s operations, including:
 
@@ -51,4 +51,8 @@ KPI creation
 Dashboard development and storytelling
 
 Business insights & recommendations
+
+## 🔹 Executive Smmary
+<img width="925" height="509" alt="image" src="https://github.com/user-attachments/assets/1f49ec9d-edac-4420-9585-43024e6e0f65" />
+
 
