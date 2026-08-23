@@ -55,7 +55,7 @@ Business insights & recommendations
 ## 🔹 Executive Smmary
 <img width="925" height="509" alt="image" src="https://github.com/user-attachments/assets/1f49ec9d-edac-4420-9585-43024e6e0f65" />
 
-# Stock Price Analysis Report: 2014–2017
+# Stock Market Price Analysis Report: 2014–2017
 
 ## 1. Introduction
 
